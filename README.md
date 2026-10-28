@@ -14,7 +14,7 @@ Eel acts as a bridge between Python and the browser-based UI, allowing seamless 
 
 ## Requirements
 
-- Python 3.11
+- Python 3.15
 - Node.js 18 or later
 - Poetry (Python package manager)
 

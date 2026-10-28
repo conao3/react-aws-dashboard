@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "react_aws_dashboard"}]
 
 [tool.poetry.dependencies]
-python = "^3.11,<3.12"
+python = ">=3.15,<3.16"
 eel = "^0.18.2"
 pyinstaller = "^6.22.3"
 
