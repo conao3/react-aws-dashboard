@@ -1,2 +1,4 @@
 allowBuilds:
   "@swc/core": false
+overrides:
+  minimatch@^10: ^11.0.1
