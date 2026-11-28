@@ -52,7 +52,7 @@ poetry run python py-src/app.py
 
 <img src="images/main-window.png" width="836" alt="Main window of the app">
 
-The main window in its initial state, in the light color scheme. The screen is the starter template and shows no user data.
+The main window in its initial state, in the light color scheme. The window shows the default content of the starter template.
 
 ## Project Structure
 
