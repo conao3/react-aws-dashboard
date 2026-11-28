@@ -50,7 +50,7 @@ The build output will be placed in the `web` directory, which Eel serves to the 
 poetry run python py-src/app.py
 ```
 
-![Main window of the app](images/main-window.png)
+<img src="images/main-window.png" width="836" alt="Main window of the app">
 
 The main window in its initial state, in the light color scheme. The screen is the starter template and shows no user data.
 
